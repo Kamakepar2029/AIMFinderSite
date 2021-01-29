@@ -1,0 +1,300 @@
+.readme .markdown-body, .readme .plain {
+    word-wrap: break-word;
+}
+.markdown-body {
+    font-family: -apple-system,BlinkMacSystemFont,"Segoe UI",Helvetica,Arial,sans-serif,"Apple Color Emoji","Segoe UI Emoji";
+    font-size: 16px;
+    line-height: 1.5;
+    word-wrap: break-word;
+}
+.markdown-body {
+    font-family: -apple-system,BlinkMacSystemFont,"Segoe UI",Helvetica,Arial,sans-serif,"Apple Color Emoji","Segoe UI Emoji";
+    font-size: 16px;
+    line-height: 1.5;
+    word-wrap: break-word;
+}
+.container-lg {
+    max-width: 1012px;
+    margin-right: auto;
+    margin-left: auto;
+}
+article, aside, details, figcaption, figure, footer, header, main, menu, nav, section {
+    display: block;
+}
+* {
+    box-sizing: border-box;
+}
+user agent stylesheet
+article {
+    display: block;
+}
+body {
+    word-wrap: break-word;
+}
+body {
+    font-family: -apple-system,BlinkMacSystemFont,"Segoe UI",Helvetica,Arial,sans-serif,"Apple Color Emoji","Segoe UI Emoji";
+    font-size: 14px;
+    line-height: 1.5;
+    color: var(--color-text-primary);
+    background-color: var(--color-bg-canvas);
+}
+[data-color-mode=light], [data-color-mode=light][data-light-theme=light], [data-color-mode=dark][data-dark-theme=light] {
+    --color-scale-black: #1b1f23;
+    --color-scale-white: #ffffff;
+    --color-scale-gray-0: #fafbfc;
+    --color-scale-gray-1: #f6f8fa;
+    --color-scale-gray-2: #e1e4e8;
+    --color-scale-gray-3: #d1d5da;
+    --color-scale-gray-4: #959da5;
+    --color-scale-gray-5: #6a737d;
+    --color-scale-gray-6: #586069;
+    --color-scale-gray-7: #444d56;
+    --color-scale-gray-8: #2f363d;
+    --color-scale-gray-9: #24292e;
+    --color-scale-blue-0: #f1f8ff;
+    --color-scale-blue-1: #dbedff;
+    --color-scale-blue-2: #c8e1ff;
+    --color-scale-blue-3: #79b8ff;
+    --color-scale-blue-4: #2188ff;
+    --color-scale-blue-5: #0366d6;
+    --color-scale-blue-6: #005cc5;
+    --color-scale-blue-7: #044289;
+    --color-scale-blue-8: #032f62;
+    --color-scale-blue-9: #05264c;
+    --color-scale-green-0: #f0fff4;
+    --color-scale-green-1: #dcffe4;
+    --color-scale-green-2: #bef5cb;
+    --color-scale-green-3: #85e89d;
+    --color-scale-green-4: #34d058;
+    --color-scale-green-5: #28a745;
+    --color-scale-green-6: #22863a;
+    --color-scale-green-7: #176f2c;
+    --color-scale-green-8: #165c26;
+    --color-scale-green-9: #144620;
+    --color-scale-yellow-0: #fffdef;
+    --color-scale-yellow-1: #fffbdd;
+    --color-scale-yellow-2: #fff5b1;
+    --color-scale-yellow-3: #ffea7f;
+    --color-scale-yellow-4: #ffdf5d;
+    --color-scale-yellow-5: #ffd33d;
+    --color-scale-yellow-6: #f9c513;
+    --color-scale-yellow-7: #dbab09;
+    --color-scale-yellow-8: #b08800;
+    --color-scale-yellow-9: #735c0f;
+    --color-scale-orange-0: #fff8f2;
+    --color-scale-orange-1: #ffebda;
+    --color-scale-orange-2: #ffd1ac;
+    --color-scale-orange-3: #ffab70;
+    --color-scale-orange-4: #fb8532;
+    --color-scale-orange-5: #f66a0a;
+    --color-scale-orange-6: #e36209;
+    --color-scale-orange-7: #d15704;
+}
+:root, [data-color-mode=light] {
+    --color-profile-color-modes-toggle-moon: var(--color-scale-yellow-4);
+}
+:root, [data-color-mode=light] {
+    --color-profile-color-modes-toggle-thumb-bg: var(--color-scale-gray-8);
+}
+:root, [data-color-mode=light] {
+    --color-profile-color-modes-toggle-track-bg: var(--color-scale-white);
+}
+:root, [data-color-mode=light] {
+    --color-profile-color-modes-toggle-track-border: var(--color-scale-gray-3);
+}
+:root, [data-color-mode=light] {
+    --color-promo-color-modes-toggle-moon: var(--color-scale-yellow-4);
+}
+:root, [data-color-mode=light] {
+    --color-promo-color-modes-toggle-thumb-bg: var(--color-scale-gray-8);
+}
+:root, [data-color-mode=light] {
+    --color-promo-color-modes-toggle-track-bg: var(--color-scale-white);
+}
+:root, [data-color-mode=light] {
+    --color-promo-color-modes-toggle-track-border: var(--color-scale-gray-3);
+}
+:root, [data-color-mode=light] {
+    --color-gist-editor-bg: var(--color-scale-white);
+}
+:root, [data-color-mode=light] {
+    --color-current-user-tip-border: #D4E2F8;
+}
+:root, [data-color-mode=light] {
+    --color-current-user-tip-bg: var(--color-box-bg-info);
+}
+:root, [data-color-mode=light] {
+    --color-timeline-merged-bg: var(--color-auto-purple-5);
+}
+:root, [data-color-mode=light] {
+    --color-notifications-row-bg: var(--color-auto-white);
+}
+:root, [data-color-mode=light] {
+    --color-notifications-row-read-bg: var(--color-bg-tertiary);
+}
+:root, [data-color-mode=light] {
+    --color-notifications-button-hover-bg: var(--color-auto-gray-2);
+}
+:root, [data-color-mode=light] {
+    --color-notifications-button-hover-text: var(--color-text-primary);
+}
+:root, [data-color-mode=light] {
+    --color-notifications-button-text: var(--color-text-secondary);
+}
+:root, [data-color-mode=light] {
+    --color-search-hover-hl: var(--color-scale-white);
+}
+:root, [data-color-mode=light] {
+    --color-downvote-icon-bg: var(--color-scale-red-1);
+}
+:root, [data-color-mode=light] {
+    --color-upvote-icon-bg: var(--color-scale-blue-1);
+}
+:root, [data-color-mode=light] {
+    --color-bg-discussions-row-emoji-box: rgba(209, 213, 218, 0.5);
+}
+:root, [data-color-mode=light] {
+    --color-discussions-state-answered-icon: var(--color-scale-white);
+}
+:root, [data-color-mode=light] {
+    --color-discussions-answer-text: var(--color-scale-green-6);
+}
+:root, [data-color-mode=light] {
+    --color-discussions-answer-icon: var(--color-scale-green-6);
+}
+:root, [data-color-mode=light] {
+    --color-discussions-answer-border: var(--color-scale-green-5);
+}
+:root, [data-color-mode=light] {
+    --color-checks-donut-neutral: var(--color-scale-gray-4);
+}
+:root, [data-color-mode=light] {
+    --color-checks-donut-success: var(--color-scale-green-5);
+}
+:root, [data-color-mode=light] {
+    --color-checks-donut-pending: var(--color-scale-yellow-7);
+}
+:root, [data-color-mode=light] {
+    --color-checks-donut-error: var(--color-scale-red-6);
+}
+:root, [data-color-mode=light] {
+    --color-workflow-card-progress-incomplete-bg: var(--color-scale-gray-2);
+}
+:root, [data-color-mode=light] {
+    --color-workflow-card-progress-complete-bg: var(--color-scale-blue-4);
+}
+:root, [data-color-mode=light] {
+    --color-workflow-card-header-shadow: rgba(0, 0, 0, 0);
+}
+:root, [data-color-mode=light] {
+    --color-workflow-card-inactive-bg: var(--color-bg-canvas-inset);
+}
+:root, [data-color-mode=light] {
+    --color-workflow-card-bg: var(--color-scale-white);
+}
+:root, [data-color-mode=light] {
+    --color-workflow-card-connector-highlight-bg: var(--color-scale-blue-4);
+}
+:root, [data-color-mode=light] {
+    --color-workflow-card-connector-highlight: var(--color-scale-blue-4);
+}
+:root, [data-color-mode=light] {
+    --color-workflow-card-connector-inactive-bg: var(--color-border-primary);
+}
+:root, [data-color-mode=light] {
+    --color-workflow-card-connector-inactive: var(--color-border-primary);
+}
+:root, [data-color-mode=light] {
+    --color-workflow-card-connector-bg: var(--color-scale-gray-3);
+}
+:root, [data-color-mode=light] {
+    --color-workflow-card-connector: var(--color-scale-gray-3);
+}
+:root, [data-color-mode=light] {
+    --color-calendar-halloween-graph-day-L1-bg: #ffee4a;
+    --color-calendar-halloween-graph-day-L2-bg: #ffc501;
+    --color-calendar-halloween-graph-day-L3-bg: #fe9600;
+    --color-calendar-halloween-graph-day-L4-bg: #03001c;
+}
+:root, [data-color-mode=light] {
+    color-scheme: light;
+}
+[data-color-mode] {
+    color: var(--color-text-primary);
+    background-color: var(--color-bg-canvas);
+}
+:root {
+    --color-scale-black: #1b1f23;
+    --color-scale-white: #ffffff;
+    --color-scale-gray-0: #fafbfc;
+    --color-scale-gray-1: #f6f8fa;
+    --color-scale-gray-2: #e1e4e8;
+    --color-scale-gray-3: #d1d5da;
+    --color-scale-gray-4: #959da5;
+    --color-scale-gray-5: #6a737d;
+    --color-scale-gray-6: #586069;
+    --color-scale-gray-7: #444d56;
+    --color-scale-gray-8: #2f363d;
+    --color-scale-gray-9: #24292e;
+    --color-scale-blue-0: #f1f8ff;
+    --color-scale-blue-1: #dbedff;
+    --color-scale-blue-2: #c8e1ff;
+    --color-scale-blue-3: #79b8ff;
+    --color-scale-blue-4: #2188ff;
+    --color-scale-blue-5: #0366d6;
+    --color-scale-blue-6: #005cc5;
+    --color-scale-blue-7: #044289;
+    --color-scale-blue-8: #032f62;
+    --color-scale-blue-9: #05264c;
+    --color-scale-green-0: #f0fff4;
+    --color-scale-green-1: #dcffe4;
+    --color-scale-green-2: #bef5cb;
+    --color-scale-green-3: #85e89d;
+    --color-scale-green-4: #34d058;
+    --color-scale-green-5: #28a745;
+    --color-scale-green-6: #22863a;
+    --color-scale-green-7: #176f2c;
+    --color-scale-green-8: #165c26;
+    --color-scale-green-9: #144620;
+    --color-scale-yellow-0: #fffdef;
+    --color-scale-yellow-1: #fffbdd;
+    --color-scale-yellow-2: #fff5b1;
+    --color-scale-yellow-3: #ffea7f;
+    --color-scale-yellow-4: #ffdf5d;
+    --color-scale-yellow-5: #ffd33d;
+    --color-scale-yellow-6: #f9c513;
+    --color-scale-yellow-7: #dbab09;
+    --color-scale-yellow-8: #b08800;
+    --color-scale-yellow-9: #735c0f;
+    --color-scale-orange-0: #fff8f2;
+    --color-scale-orange-1: #ffebda;
+    --color-scale-orange-2: #ffd1ac;
+    --color-scale-orange-3: #ffab70;
+    --color-scale-orange-4: #fb8532;
+    --color-scale-orange-5: #f66a0a;
+    --color-scale-orange-6: #e36209;
+    --color-scale-orange-7: #d15704;
+}
+html {
+    font-family: sans-serif;
+    -ms-text-size-adjust: 100%;
+    -webkit-text-size-adjust: 100%;
+}
+.markdown-body::before {
+    display: table;
+    content: "";
+}
+.markdown-body::before {
+    display: table;
+    content: "";
+}
+.markdown-body::after {
+    display: table;
+    clear: both;
+    content: "";
+}
+.markdown-body::after {
+    display: table;
+    clear: both;
+    content: "";
+}
