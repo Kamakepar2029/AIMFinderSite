@@ -67,7 +67,9 @@ a {
     font-size: 40px;
     margin: auto 15px;
 }
-
+html {
+    scroll-behavior: smooth;
+}
 .description {
     font-size: large;
     margin-top: 10px;
